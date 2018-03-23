@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Jekyll 2
+date: 2018-03-22 00:00:00 Z
+layout: post
 ---
 
 Ceci est un test...

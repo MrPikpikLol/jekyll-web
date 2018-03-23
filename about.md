@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Contact
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 <h1 class="contact">Contact</h1>
